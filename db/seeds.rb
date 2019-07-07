@@ -1,3 +1,5 @@
+
+
 cook = Captain.create(name: "Captain Cook", admiral: true)
 kidd = Captain.create(name: "Captain Kidd", admiral: true)
 william = Captain.create(name: "William Kyd", admiral: false)
@@ -64,3 +66,5 @@ triton.classifications << [motorboat, bass]
 sun_tracker.classifications << [motorboat, pontoon, catamaran]
 harpoon.classifications << [sailboat, sloop]
 sunfish.classifications << [sailboat, cat_rig]
+
+
